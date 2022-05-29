@@ -14,7 +14,7 @@ I have learned to code to be a better product owner and a agil team player, bein
 
 #### 𝘿𝙚𝙨𝙞𝙜𝙣 𝙩𝙤𝙤𝙡𝙨 𝙄 𝙪𝙨𝙚
 | 𝗙𝗜𝗚𝗠𝗔 <img height="30px" src="https://cdn.svgporn.com/logos/figma.svg">  | 
-<br>
+
 
 
 📫 How to reach me:

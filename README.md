@@ -10,8 +10,8 @@ I have learned to code to be a better product owner and a agil team player, bein
 
 #### 𝘾𝙤𝙙𝙞𝙣𝙜 𝙩𝙤𝙤𝙡𝙨 𝙄 𝙪𝙨𝙚
 <br>
-| 𝗩𝗦 𝗖𝗼𝗱𝗲 <img height="30px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"> |
-<br>
+| 𝗩𝗦 𝗖𝗼𝗱𝗲 <img height="30px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">|
+
 #### 𝘿𝙚𝙨𝙞𝙜𝙣 𝙩𝙤𝙤𝙡𝙨 𝙄 𝙪𝙨𝙚
 | 𝗙𝗜𝗚𝗠𝗔 <img height="30px" src="https://cdn.svgporn.com/logos/figma.svg">  | 
 <br>

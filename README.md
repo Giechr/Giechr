@@ -18,7 +18,7 @@ I have learned to code to be a better product owner and a agil team player, bein
 
 
 
-📫 How to reach me:
+## 📫 How to reach me
 
 [My Instagram page](https://www.instagram.com/christoffergiertsen/)
 

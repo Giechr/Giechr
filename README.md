@@ -1,6 +1,6 @@
 ### Hi there, I'm Christoffer 👋
 
-I'm a economist/securites product owner that also fiddel a bit with front-end development. 
+I'm a economist/securites product owner/specialist and project leader that also fiddel a bit with front-end development. 
 I have learned to code to be a better product owner and a agil team player, being able to contribute in every way possible (UX, coding, spesifications etc.)
 <br>
 ## 𝙈𝙮 𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠

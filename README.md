@@ -1,7 +1,6 @@
 ### Hi there, I'm Christoffer 👋
 
-I'm a economist/securites product owner/specialist and project leader that also fiddel a bit with front-end development. 
-I have learned to code to be a better product owner and a agil team player, being able to contribute in every way possible (UX, coding, spesifications etc.)
+I'm an economist/securities product owner who also fiddles a bit with front-end development. 
 <br>
 ## 𝙈𝙮 𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠
 
@@ -21,8 +20,6 @@ I have learned to code to be a better product owner and a agil team player, bein
 ## 📫 How to reach me
 
 [My Instagram page](https://www.instagram.com/christoffergiertsen/)
-
-[My Twitter page](https://twitter.com/ChrisHGiertsen)
 
 [My LinkedIn page](https://www.linkedin.com/in/christoffergiertsen/)
 
